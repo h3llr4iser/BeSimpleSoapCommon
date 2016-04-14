@@ -68,7 +68,7 @@ class Method
 
     public function setOutput($type)
     {
-        $this->output->add($this->output->getName(), $type);
+        $this->output->add($this->getName()."Result", $type);
 //        $this->output->add('return', $type);
     }
 
