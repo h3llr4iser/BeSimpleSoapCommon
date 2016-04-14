@@ -1,7 +1,7 @@
 {
     "name": "besimple/soap-common",
     "type": "library",
-    "description": "Build and consume SOAP Common based web services",
+    "description": "Build and consume SOAP Common based web services..",
     "keywords": [ "soap", "soap-common" ],
     "homepage": "https://github.com/BeSimple/BeSimpleSoapCommon",
     "license": "MIT",
